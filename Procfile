@@ -1,1 +1,1 @@
-web: python sinaiss.py
+web: gunicorn app:app
